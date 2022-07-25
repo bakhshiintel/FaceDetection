@@ -2,6 +2,8 @@
 It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images.
 
 ![![f1622297778](https://user-images.githubusercontent.com/98385786/180823177-50289c05-a9de-4531-a02c-b87a115c712c.jpg)
+
+
 f1622297330](https://user-images.githubusercontent.com/98385786/180823165-4a066fcc-971a-4968-9101-ee90ae4e4e01.jpg)
 
 
