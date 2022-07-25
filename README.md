@@ -12,6 +12,7 @@ negative images
 
 
 Here we will deal with face and eye detection.First, the algorithm is trained with a large number of positive and negative images, and then the Haar features are extracted from it to recognize the face and eyes.
+
 ![haar_features](https://user-images.githubusercontent.com/98385786/180821247-4459575e-39f8-4af6-a073-2ed0628dfece.jpg)
 
 ![f1622297394](https://user-images.githubusercontent.com/98385786/180823010-9b3ef8ea-fb8d-4ef0-9241-8b26384fe6a7.jpg)
