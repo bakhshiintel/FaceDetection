@@ -21,6 +21,13 @@ Here we will deal with face and eye detection.First, the algorithm is trained wi
 The extracted Haar features are grouped in different stages of classification and applied to a window of the image.The extracted features are grouped in different stages of classification and applied to a window of the image.
 
 ![Capture](https://user-images.githubusercontent.com/98385786/180827135-c73f140a-93eb-4a14-babb-9b355bc2b962.PNG)
+
+
+![Capture](https://user-images.githubusercontent.com/98385786/180830156-4e00b0d2-720d-475c-9d0c-11c6594471de.PNG)
+
+
+
+
 In the video below, I explain about face and eye recognition using the Cascade classifier method. (in Persian)
 https://www.aparat.com/v/tXe3P
 
