@@ -1,7 +1,10 @@
 # FaceDetection
 It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images.
+
 positive images
 ![f1622297330](https://user-images.githubusercontent.com/98385786/180828883-e0618454-2f85-4157-861a-f7e80ce6c4f9.jpg) 
+
+
 
 negative images
 ![f1622297778](https://user-images.githubusercontent.com/98385786/180828959-0ad3bac9-d6d5-480b-9279-5826fe8c7895.jpg)
